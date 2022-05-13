@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Rotas from '../routes';
+import Rotas from './routes';
 
 class App extends React.Component {
   render(){
