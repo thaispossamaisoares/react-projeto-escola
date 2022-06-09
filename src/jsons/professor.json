@@ -1,0 +1,19 @@
+{
+    "id": "",
+    "disciplina": [
+        {
+            "nome_disciplina": "Artes",
+            "faltas_materia": "4",
+            "nota_total": "9.0"
+        },
+        {
+            "nome_disciplina": "Artes",
+            "faltas_materia": "4",
+            "nota_total": "9.0"
+        }
+    ],
+    "nome": "",
+    "turno_aula": "",
+    "email": "",
+    "telefone": ""
+}

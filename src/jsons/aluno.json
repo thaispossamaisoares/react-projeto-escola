@@ -1,0 +1,44 @@
+{
+    "id": "",
+    "nome": "",
+    "email": "",
+    "telefone": "",
+    "data_nascimento": "",
+    "aprovado": "",
+    "provas": {
+        "materia_prova": "",
+        "data_prova": ""
+    },
+    "disciplinas": [
+        {
+            "nome_disciplina": "Artes",
+            "faltas_materia": "4",
+            "nota_total": "9.0"
+        },
+        {
+            "nome_disciplina": "Artes",
+            "faltas_materia": "4",
+            "nota_total": "9.0"
+        },
+        {
+            "nome_disciplina": "Artes",
+            "faltas_materia": "4",
+            "nota_total": "9.0"
+        },
+        {
+            "nome_disciplina": "Artes",
+            "faltas_materia": "4",
+            "nota_total": "9.0"
+        }
+    ],
+    "atividade_extra": [
+        {
+            "nome_atividade": "",
+            "nota_total": ""
+        },
+        {
+            "nome_atividade": "",
+            "nota_total": ""
+        }
+    ]
+}
